@@ -27,3 +27,11 @@
 ## 🌱 GitHub Grass Strategy
 
 꾸준함이 목표입니다.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/0178-rank-scores) |
+<!---LeetCode Topics End-->
