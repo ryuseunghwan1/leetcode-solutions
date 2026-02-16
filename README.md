@@ -33,5 +33,6 @@
 ## Database
 |  |
 | ------- |
+| [0177-nth-highest-salary](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/0178-rank-scores) |
 <!---LeetCode Topics End-->
