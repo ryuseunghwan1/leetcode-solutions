@@ -35,4 +35,5 @@
 | ------- |
 | [0177-nth-highest-salary](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
