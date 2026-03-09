@@ -56,4 +56,8 @@
 | [0627-swap-sex-of-employees](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/0627-swap-sex-of-employees) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1068-product-sales-analysis-i](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/ryuseunghwan1/leetcode-solutions/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
